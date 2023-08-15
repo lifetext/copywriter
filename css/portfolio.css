@@ -1,0 +1,5 @@
+#carouselMultiItemExample {
+  .carousel-inner {
+    transition: transform 7s ease, opacity 0.3s ease-out;
+  }
+}
